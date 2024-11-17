@@ -37,3 +37,6 @@ https://tauri.app/start/
 https://next.shadcn-svelte.com/
 
 Note: Boilerplate tested on Windows 11 only.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
